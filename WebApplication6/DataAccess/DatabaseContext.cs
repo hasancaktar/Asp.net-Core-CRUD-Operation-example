@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using WebApplication6.Models;
+using WebApplication6.Entity;
 
 namespace WebApplication6.DataAccess
 {

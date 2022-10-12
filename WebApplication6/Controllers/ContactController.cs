@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using WebApplication6.DataAccess;
 using WebApplication6.Entity;
-using WebApplication6.Models;
+using WebApplication6.Entity.Models.Dtos;
 
 namespace WebApplication6.Controllers
 {
